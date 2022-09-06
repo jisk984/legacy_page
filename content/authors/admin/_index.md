@@ -67,6 +67,6 @@ email: "sgchi@purdue.edu"
 highlight_name: true
 ---
 
-I am a Ph.D. student in Electrical and Computer Engineering at Purdue University advised by Professor {{< staticref "https://engineering.purdue.edu/ME/People/ptProfile?resource_id=12331" "newtab" >}}Karthik Ramani{{< /staticref >}} and {{< staticref "http://alexquinn.org" "newtab" >}}Alex Quinn{{< /staticref >}}. My research interests lie in the fields of Computer Vision, Machine Learning, and Human Computer Interaction. More specifically, I am interested in Human Action Representation Learning, Human in the loop Machine Learning, and Reinforcement Learning
+I am a Ph.D. student in Electrical and Computer Engineering at Purdue University advised by Professor {{< staticref "https://engineering.purdue.edu/ME/People/ptProfile?resource_id=12331" "newtab" >}}Karthik Ramani{{< /staticref >}} and {{< staticref "http://alexquinn.org" "newtab" >}}Alex Quinn{{< /staticref >}}. My research interests lie in the fields of Computer Vision, Machine Learning, and Human Computer Interaction. More specifically, I am interested in Human Action Representation Learning, Human in the loop Machine Learning, and Reinforcement Learning.
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
